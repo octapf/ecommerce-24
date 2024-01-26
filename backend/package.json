@@ -1,7 +1,7 @@
 {
-	"name": "node-typescript",
+	"name": "ecommerce-24",
 	"version": "0.1.0",
-	"description": "Node-typescript app",
+	"description": "Ecommerce site with React/Node/Typescript",
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
@@ -10,14 +10,14 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/octapf/node-typescript.git"
+		"url": "git+https://github.com/octapf/ecommerce-24.git"
 	},
 	"author": "Octavio Frangipani",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/octapf/node-typescript/issues"
+		"url": "https://github.com/octapf/ecommerce-24/issues"
 	},
-	"homepage": "https://github.com/octapf/node-typescript#readme",
+	"homepage": "https://github.com/octapf/ecommerce-24#readme",
 	"dependencies": {
 		"class-validator": "^0.14.1",
 		"cors": "^2.8.5",
